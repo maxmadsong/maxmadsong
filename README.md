@@ -2,7 +2,14 @@
 
 # 👋 Hi, I'm Max! 
 
-Highly-skilled React developer with a passion for creating engaging and scalable web applications.
+Highly-skilled React developer with a passion for creating engaging and scalable web applications. My primary goal is to gain a deep understanding of all processes within the software development industry.
+
+## Here's a little bit about me:
+
+- :thought_balloon: I **think critically** before diving into coding to ensure the best approach for each project
+- :nerd_face: I **thrive in environments** where I can learn from those who are more experienced than me
+- :muscle: I have the ability to **anticipate the consequences** of my development decisions, ensuring a solid foundation for my projects
+
 
 ## 🎓 Skills
 
@@ -23,12 +30,6 @@ Highly-skilled React developer with a passion for creating engaging and scalable
 ![](https://img.shields.io/badge/Cypress-green?style=for-the-badge&logo=cypress) 
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
 ![](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud) 
-
-## My primary goal is to gain a deep understanding of all processes within the software development industry. Here's a little bit about me:
-
-- :thought_balloon: I **think critically** before diving into coding to ensure the best approach for each project
-- :nerd_face: I **thrive in environments** where I can learn from those who are more experienced than me
-- :muscle: I have the ability to **anticipate the consequences** of my development decisions, ensuring a solid foundation for my projects
 
 
 ## 📧 Contact information
