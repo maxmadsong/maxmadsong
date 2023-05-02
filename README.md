@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max! 
 
-🔥 Highly-skilled React developer with a passion for creating engaging and scalable web applications.
+Highly-skilled React developer with a passion for creating engaging and scalable web applications.
 
 ## 🎓 Skills
 
@@ -27,8 +27,6 @@
 - :thought_balloon: I **think critically** before diving into coding to ensure the best approach for each project
 - :nerd_face: I **thrive in environments** where I can learn from those who are more experienced than me
 - :muscle: I have the ability to **anticipate the consequences** of my development decisions, ensuring a solid foundation for my projects
-
-Feel free to explore my GitHub profile and check out some of my React projects! Happy coding! :computer:
 
 
 ## 📧 Contact information
