@@ -1,3 +1,5 @@
+![FE developer](https://user-images.githubusercontent.com/131769250/235618909-88f1038d-6d2b-4cfd-8df9-145ef252e2d7.png)
+
 # 👋 Hi, I'm Max! 
 
 Highly-skilled React developer with a passion for creating engaging and scalable web applications.
