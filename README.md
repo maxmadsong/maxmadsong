@@ -22,16 +22,14 @@
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
 ![](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud) 
 
-## 🚀 Projects
+## My primary goal is to gain a deep understanding of all processes within the software development industry. Here's a little bit about me:
 
-1. **Blockchain Social Network** - [The Archive](https://beta.thearchive.fm/)
-   A platform for independent artists to build communities and distribute content through moments as NFTs.
+- :thought_balloon: I **think critically** before diving into coding to ensure the best approach for each project
+- :nerd_face: I **thrive in environments** where I can learn from those who are more experienced than me
+- :muscle: I have the ability to **anticipate the consequences** of my development decisions, ensuring a solid foundation for my projects
 
-2. **Dropshipping platform** - [AutoDS](https://www.autods.com/)
-   A platform and a Chrome extension that helps to manage dropshipping for one or more online stores in the same place.
+Feel free to explore my GitHub profile and check out some of my React projects! Happy coding! :computer:
 
-3. **Platform for legal niche** - [TreeScribe](https://app.treescribe.com/)
-   The application helps to visualize the decision tree for a specific document, get the preview of a document, configure the definitions library, and create templates.
 
 ## 📧 Contact information
 
